@@ -1,0 +1,5 @@
+{
+  "name": "CodeMedic",
+  "description": "An intelligent code debugging assistant that identifies errors, explains bugs, and provides corrected code solutions using advanced AI models.",
+  "requestFramePermissions": []
+}
